@@ -1,0 +1,28 @@
+{
+    "name": "countly-web-sdk",
+    "version": "1.0.0",
+    "description": "Bower install for https://github.com/countly/countly-sdk-web",
+    "main": [
+        "countly.min.js"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "moduleType": [],
+    "keywords": [
+        "Analytics ",
+        "Mobile",
+        "Enterprise"
+    ],
+    "authors": [
+        "Countly"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@bitbucket.org:tiltandco/countly-web-sdk-bower.git"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "bower_components",
+    ]
+}
